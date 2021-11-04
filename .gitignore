@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
+.venv
+.coverage
+.pylint_report.json
+build

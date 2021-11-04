@@ -1,0 +1,9 @@
+[MESSAGES CONTROL]
+disable=invalid-name,multiple-statements,too-few-public-methods,too-many-arguments,too-many-locals,too-many-instance-attributes,logging-fstring-interpolation
+
+[MASTER]
+ignore=utest
+load-plugins=pylint_report
+
+[REPORTS]
+output-format=pylint_report.CustomJsonReporter

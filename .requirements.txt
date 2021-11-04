@@ -1,0 +1,16 @@
+numpy
+pandas
+jupyterlab
+PyYAML
+Sphinx
+sphinx-rtd-theme
+sphinxcontrib-jsmath
+sphinxcontrib-napoleon
+sphinxcontrib-websupport
+sphinx-copybutton
+pytest
+pytest-cov
+pytest-reportlog
+pytest-html
+pylint
+pylint-report

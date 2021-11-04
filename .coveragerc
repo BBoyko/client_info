@@ -1,0 +1,5 @@
+[run]
+omit = client_info/utest/*
+
+[html]
+directory = .htmlcov
