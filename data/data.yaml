@@ -1,3 +1,35 @@
 # Currently we store records in this file
 
-Records:
+clients:
+
+  - &ref_az
+    name: Az
+    email: da.go.duhash@tuk.com
+    phone: 123456789
+    company: shopska
+
+  - &ref_ti
+    name: Ti
+    email: i.ti.da.go.duhash@tam.com
+    phone: 987654321
+    company: salata
+
+records:
+
+  nissan:
+    - model: sunny
+    - color: white
+    - koncheta: 125
+    - note: kakvi vremena biaha
+
+  reno:
+    - model: 5
+    - color: white
+    - koncheta: 2 magareta i edna koza
+    - note: mnogo obikolki
+
+  lada:
+    - model: 1500
+    - color: red
+    - koncheta: bem li ga
+    - note: parva kola
