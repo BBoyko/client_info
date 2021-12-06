@@ -12,14 +12,14 @@ clients:
     name: Ti
     email: i.ti.da.go.duhash@tam.com
     phone: 987654321
-    company: salata
+    company: salata chushki
 
 records:
 
   nissan:
-    - model: sunny
+    - model: Nissan primera
     - color: white
-    - koncheta: 125
+    - koncheta: 125 grey
     - note: kakvi vremena biaha
 
   reno:
